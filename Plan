@@ -1,0 +1,18 @@
+
+
+- Endlessly moving worm head + body + tail (At the start body is 1 part long)
+
+- Start: Worm is at the center
+- Start: Stay still, then move to the direction of last arrow key pressed
+- Start: Generate a fruit to a random place
+
+- Every time a fruit is eaten:
+- Generate a new fruit to a random place
+- Body +1 part
+
+- If the worm tries to move through a wall or it's body:
+- Game over
+
+
+
+- 10x10 screen?
